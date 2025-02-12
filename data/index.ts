@@ -65,11 +65,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Philathrolink",
-    des: "A crowdfunding platform dedicated to connecting donors with causes they care about.",
-    img: "/Philathrolink.png",
-    iconLists: ["/next.svg","/re.svg", "/ts.svg", "/mui.svg", "/supabase.svg"],
-    link: "https://github.com/digital-explorers-2/philanthro-link",
+    title: "Drawdash",
+    des: "AI-powered on-chain art game. The game generates AI-powered prompts, and players sketch images based on them.",
+    img: "/drawdash.png",
+    iconLists: ["/next.svg","/re.svg", "/ts.svg", "/mui.svg"],
+    link: "https://github.com/Abbymuso1/draw-dash",
   },
   {
     id: 2,
@@ -81,11 +81,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "InternEST",
-    des: "An online platform designed to connect businesses and universities in Estonia, facilitating easier access to internship opportunities for university students.",
-    img: "/InternEst.png",
+    title: "Tarot",
+    des: "AI-powered simulation game that provides personalized tarot readings. We used AI to generate unique card visuals and interpret readings, allowing users to experience interactive storytelling",
+    img: "/tarot.png",
     iconLists: ["/next.svg", "/re.svg","/ts.svg","/mui.svg"],
-    link: "https://github.com/Abbymuso1/InternEST",
+    link: "https://github.com/Arttribute/tarot",
   },
   {
     id: 4,
